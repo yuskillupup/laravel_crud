@@ -23,7 +23,7 @@ class BookTableSeeder extends Seeder
                     'price' => 3000,
                     'author' => null],
                     ['name' => 'PHP Book',
-                    'price' => 2000,
+                    'price' => 2500,
                     'author' => 'PHPER']
         ];
         // 登録
